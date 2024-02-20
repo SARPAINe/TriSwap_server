@@ -1,0 +1,9 @@
+# Ignore artifacts:
+build
+blockchain
+contracts
+node_modules
+.husky
+.prettierignore
+commitlint.cjs
+temp
